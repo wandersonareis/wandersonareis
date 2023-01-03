@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+The best time of my day is when I'm programming with my friends :heart:
 
 <!--
-**wandersonareis/wandersonareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandersonareis&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="wandersonareis's github stats" />
+-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonareis&layout=compact&theme=default" />
