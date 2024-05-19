@@ -9,6 +9,11 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wandersonareis&&style=flat-square" align="center" />
+</div>  
+  
+<br />
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -74,15 +79,5 @@
   
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wandersonareis&&style=flat-square" align="center" />
-</div>  
-  
-<br />
 
 ----
