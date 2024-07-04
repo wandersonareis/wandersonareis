@@ -1,6 +1,9 @@
-### <div align="center">Me chamo Wanderson Reis e sou apaixonado por desenvolvimento de software e tecnologia em geral.
+### <div align="center">👋 Sou Wanderson Aparecido, um estudante de Ciência da Computação na Estácio de Sá, com um perfil dedicado e entusiasmado. 
+Apesar de enfrentar uma deficiência física, transformei cada desafio em uma oportunidade para crescer e me destacar.
 
-**Desenvolvedor Apaixonado:** Sou um entusiasta do desenvolvimento de software com foco em soluções web e mobile. Minha paixão é aplicar conhecimentos em linguagens como JavaScript, Python e Java para criar projetos inovadores1.
+Ao longo de minhas experiências anteriores e por meio de cursos especializados, desenvolvi um conjunto de habilidades diversificadas. 💻 Possuo sólida experiência prática em linguagens de programação como C#, JavaScript e TypeScript, além de conhecimento em frameworks de ponta como React, Angular, Express.js e Nest.js.
+
+Minha trajetória não se resume apenas a superar limitações, mas a redefinir possibilidades no mundo da tecnologia. 🚀 Com uma história inspiradora, estou sempre pronto para novos desafios, demonstrando meu compromisso com o aprimoramento constante de minhas habilidades técnicas. 💪
 
 **Aprendizado Contínuo:** Estou sempre em busca de novos aprendizados e aprimoramento de habilidades, participando ativamente de projetos de código aberto e interagindo com a comunidade de desenvolvedores2.
 
@@ -15,7 +18,7 @@
   
 <br />
 
-## My Skill Set  
+## Minhas techs  
 <table><tr><td valign="top" width="33%">
 
 
@@ -28,9 +31,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -48,7 +49,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 </div>
@@ -58,7 +58,7 @@
 <br/>  
 
 
-## Connect with me  
+## Entre em contato  
 <div align="center">
 <a href="https://github.com/wandersonareis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
