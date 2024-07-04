@@ -1,11 +1,11 @@
 ### <div align="center">👋 Sou Wanderson Aparecido, um estudante de Ciência da Computação na Estácio de Sá, com um perfil dedicado e entusiasmado. 
 Apesar de enfrentar uma deficiência física, transformei cada desafio em uma oportunidade para crescer e me destacar.
 
-Ao longo de minhas experiências anteriores e por meio de cursos especializados, desenvolvi um conjunto de habilidades diversificadas. 💻 Possuo sólida experiência prática em linguagens de programação como C#, JavaScript e TypeScript, além de conhecimento em frameworks de ponta como React, Angular, Express.js e Nest.js.
+Ao longo de minhas experiências anteriores e por meio de cursos especializados, desenvolvi um conjunto de habilidades diversificadas. Possuo sólida experiência prática em linguagens de programação como C#, JavaScript e TypeScript, além de conhecimento em frameworks de ponta como React, Angular, Express.js e Nest.js.
 
 Minha trajetória não se resume apenas a superar limitações, mas a redefinir possibilidades no mundo da tecnologia. 🚀 Com uma história inspiradora, estou sempre pronto para novos desafios, demonstrando meu compromisso com o aprimoramento constante de minhas habilidades técnicas. 💪
 
-**Aprendizado Contínuo:** Estou sempre em busca de novos aprendizados e aprimoramento de habilidades, participando ativamente de projetos de código aberto e interagindo com a comunidade de desenvolvedores2.
+**Aprendizado Contínuo:** Estou sempre em busca de novos aprendizados e aprimoramento de habilidades, participando ativamente de projetos de código aberto e interagindo com a comunidade de desenvolvedores.
 
 **Trabalho em Equipe:** Valorizo o trabalho colaborativo e acredito que juntos podemos alcançar resultados extraordinários, construindo o futuro da tecnologia.</div>  
   
