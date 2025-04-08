@@ -3,11 +3,9 @@ Apesar de enfrentar uma deficiência física, transformei cada desafio em uma op
 
 Ao longo de minhas experiências anteriores e por meio de cursos especializados, desenvolvi um conjunto de habilidades diversificadas. Possuo sólida experiência prática em linguagens de programação como C#, JavaScript e TypeScript, além de conhecimento em frameworks de ponta como React, Angular, Express.js e Nest.js.
 
-Minha trajetória não se resume apenas a superar limitações, mas a redefinir possibilidades no mundo da tecnologia. 🚀 Com uma história inspiradora, estou sempre pronto para novos desafios, demonstrando meu compromisso com o aprimoramento constante de minhas habilidades técnicas. 💪
+Minha trajetória não se resume apenas a superar limitações, mas a redefinir possibilidades no mundo da tecnologia. Com uma história inspiradora, estou sempre pronto para novos desafios, demonstrando meu compromisso com o aprimoramento constante de minhas habilidades técnicas.
 
-**Aprendizado Contínuo:** Estou sempre em busca de novos aprendizados e aprimoramento de habilidades, participando ativamente de projetos de código aberto e interagindo com a comunidade de desenvolvedores.
-
-**Trabalho em Equipe:** Valorizo o trabalho colaborativo e acredito que juntos podemos alcançar resultados extraordinários, construindo o futuro da tecnologia.</div>  
+Apaixonado por tecnologia, dei meu primeiro passo para realizar o sonho de trabalhar na área cursando Desenvolvimento de Software na Cubos Academy. A empresa Blip foi essencial na minha jornada, me ajudando a dar o próximo passo ao me contratar para o suporte interno, onde trabalhei atualizando e mantendo o Blip Help. Após um ano, fui transferido para a equipe de desenvolvimento de chatbots, onde sigo aprendendo e contribuindo para projetos incríveis.</div>  
   
 
 <br/>  
